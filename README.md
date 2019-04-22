@@ -14,7 +14,7 @@
 <p> Hi my name is Sydney, and I am a first year accounting major at The University of Texas at Austin. I am passionate about fitness and living a healthy lifestyle, and my favorite hobby is hunting! <br /><br /></p>
 
 <h1 style="text-align: center;">My Favorite Website</h1>
-<p style="text-align: center;"><a href="https://www.instagram.com/">Click Here</a> to go to my favorite site</p>
+<p style="text-align: center;"><a href="https://canvas.utexas.edu/">Click Here</a> to go to my favorite site</p>
 
 <body bgcolor = "LightSkyBlue">
 
