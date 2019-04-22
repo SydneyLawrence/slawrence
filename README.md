@@ -10,7 +10,7 @@
 
 <h1 style** **="text-align=center;">About Me</h1>
 
-<b<>h1 align="center"> About me<b<>/h1>
+<b><h1 align="center"> About me<b<>/h1>
 
 <p> Hi my name is Sydney, and I am a first year accounting major at The University of Texas at Austin. I am passionate about fitness and living a healthy lifestyle, and my favorite hobby is hunting! <br /><br /></p>
 
