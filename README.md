@@ -12,13 +12,9 @@
 
 <b<>h1 align="center"> About me<b<>/h1>
 
-<p> Hi my name is Sydney, and I am a first year accoutning major at The University of Texas at Austin. I am passionate about fitness and living a healthy lifestyle, and my favorite hobby is hunting! <br /><br /></p>
+<p> Hi my name is Sydney, and I am a first year accounting major at The University of Texas at Austin. I am passionate about fitness and living a healthy lifestyle, and my favorite hobby is hunting! <br /><br /></p>
 
-<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
-
-<h1 style="text-align: center;">My name is Sydney</h1>
-
-<h2 style="text-align: center;">Welcome to my site!</h2>
+<p style="text-align: center;"><a href="https://www.instagram.com/">Click Here</a> to go to my favorite site</p>
 
 <body bgcolor = "LightSkyBlue">
 
