@@ -18,8 +18,6 @@
 
 <body bgcolor = "LightSkyBlue">
 
-<p><strong>About Me</strong></p>
-
 
 </body>
 
